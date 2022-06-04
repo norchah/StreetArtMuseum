@@ -9,3 +9,10 @@
 @import url(../blocks/button/_size/button_size_l.css);
 @import url(../blocks/button/_size/button_size_s.css);
 @import url(../blocks/button/_position/button_position_top-right.css);
+@import url(../blocks/shedule/shedule.css);
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/card/card.css);
+@import url(../blocks/card/__text/card__text.css);
+@import url(../blocks/card/__title/card__title.css);
+@import url(../blocks/card/__price/card__price.css);
+@import url(../blocks/card/__date/card__date.css);

@@ -1,26 +1,17 @@
 @font-face {
     src: 
-        url(fonts/SpriteGraffiti-Regular.otf) format("otf"),
-        url(fonts/SpriteGraffiti-Regular.woff) format("woff"),
-        url(fonts/SpriteGraffiti-Regular.woff2) format("woff2");
-    font-family: "Graffiti";
+        url(fonts/Montserrat-Regular.ttf) format("ttf"),
+        url(fonts/Montserrat-Regular.woff) format("woff"),
+        url(fonts/Montserrat-Regular.woff2) format("woff2");
+    font-family: "Montserrat";
     font-weight: normal; 
 }
 
 @font-face {
     src: 
-        url(fonts/SpriteGraffiti-Shadow.otf) format("otf"),
-        url(fonts/SpriteGraffiti-Shadow.woff) format("woff"),
-        url(fonts/SpriteGraffiti-Shadow.woff2) format("woff2");
-    font-family: "Graffiti";
+        url(fonts/Montserrat-SemiBold.ttf) format("ttf"),
+        url(fonts/Montserrat-SemiBold.woff) format("woff"),
+        url(fonts/Montserrat-SemiBold.woff2) format("woff2");
+    font-family: "Montserrat";
     font-weight: 700; 
-}
-
-@font-face {
-    src: 
-        url(fonts/SpriteGraffiti-Extras.otf) format("otf"),
-        url(fonts/SpriteGraffiti-Extras.woff) format("woff"),
-        url(fonts/SpriteGraffiti-Extras.woff2) format("woff2");
-    font-family: "Graffiti";
-    font-weight: bold; 
 }

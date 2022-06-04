@@ -1,4 +1,6 @@
 .button {
+    font-family: "Montserrat", serif;
+    font-weight: 700;
     background-color: transparent;
     background-image: url(../../images/title-bg-image.png);
     background-repeat: no-repeat;
