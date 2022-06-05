@@ -1,0 +1,10 @@
+.section-heading {
+    position: relative;
+    width: 504px;
+    height: 241px;
+    margin: 0 auto;
+    background-color: transparent;
+    background-image: url(../../images/title-bg-image.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}

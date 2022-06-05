@@ -1,11 +1,12 @@
 .card {
+    position: relative;
     width: 412px;
     height: 700px;
     background-image: url(../../images/bg-image.png);
     box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.25);
     border-radius: 5px;
-    object-fit: fill;
     margin: 0;
     padding: 0;
-    list-style-type: none
+    list-style-type: none;
+    z-index: 0;
 }
