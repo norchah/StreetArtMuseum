@@ -1,5 +1,6 @@
 .section-heading__image {
-    position: absolute;
+    position: relative;
     top: 39%;
-    left: 18%;
+    display: block;
+    margin: 0 auto;
 }

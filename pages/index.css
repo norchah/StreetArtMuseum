@@ -18,3 +18,10 @@
 @import url(../blocks/card/__title/card__title.css);
 @import url(../blocks/card/__price/card__price.css);
 @import url(../blocks/card/__date/card__date.css);
+@import url(../blocks/gallery/gallery.css);
+@import url(../blocks/grid/grid.css);
+@import url(../blocks/grid/__image/grid__image.css);
+@import url(../blocks/grid/__image/_position/grid__image_position_1x1.css);
+@import url(../blocks/grid/__image/_position/grid__image_position_2x1.css);
+@import url(../blocks/grid/__image/_position/grid__image_position_3x1.css);
+@import url(../blocks/grid/flex-container/grid__flex-container.css);

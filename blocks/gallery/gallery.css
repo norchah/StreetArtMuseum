@@ -1,0 +1,6 @@
+.gallery {
+    background-image: url(../../images/gallery_back.png);
+    display: block;
+    height: 1142px;
+    padding: 30px 0 0;
+}
