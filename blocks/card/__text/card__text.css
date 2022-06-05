@@ -1,5 +1,5 @@
 .card__text {
     position: relative;
-    width: 315px;
+    max-width: 315px;
     margin: 0 auto 25px;
 }
