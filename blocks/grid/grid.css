@@ -4,7 +4,5 @@
     display: grid;
     grid-auto-rows: 342px;
     row-gap: 27px;
-    /* column-gap: 14px; */
     padding: 0;
-    border: 1px solid red;
 }

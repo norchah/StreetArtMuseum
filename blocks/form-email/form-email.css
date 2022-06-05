@@ -1,0 +1,7 @@
+.form-email {
+    height: 729px;
+    background-image: url(/images/back_form.png);
+    position: relative;
+}
+
+/* TODO: height will resin */
