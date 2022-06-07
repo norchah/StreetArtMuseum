@@ -1,10 +1,11 @@
 .card {
     max-width: 412px;
     min-height: 700px;
-    background-image: url(../../images/bg-image.png);
+    background: rgba(229, 229, 229, 0.3);
     box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.25);
     border-radius: 5px;
     margin: 0;
     padding: 0;
     list-style-type: none;
+    overflow: hidden;
 }

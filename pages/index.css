@@ -13,6 +13,7 @@
 @import url(../blocks/cards/cards.css);
 @import url(../blocks/card/card.css);
 @import url(../blocks/card/__text/card__text.css);
+@import url(../blocks/card/__date-time/card__date-time.css);
 @import url(../blocks/section-heading/section-heading.css);
 @import url(../blocks/section-heading/__imge/section-heading__image.css);
 @import url(../blocks/card/__title/card__title.css);
@@ -31,3 +32,4 @@
 @import url(../blocks/form/__name-of-field/form__name-of-field.css);
 @import url(../blocks/form/__input/form__input.css);
 @import url(../blocks/form/__button/form__button.css);
+@import url(../blocks/blog/blog.css);

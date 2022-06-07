@@ -1,0 +1,18 @@
+.card__date-time {
+    width: 221px;
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 32px;
+    padding: 0;
+    margin: 10px 0 0 70px;
+}
+
+.card__date-time::before {
+    content: "";
+    width: 42px;
+    height: 42px;
+    position: absolute;
+    top: 100px;
+    left: 0;
+    background-image: url(../../../images/calend.svg);
+}
